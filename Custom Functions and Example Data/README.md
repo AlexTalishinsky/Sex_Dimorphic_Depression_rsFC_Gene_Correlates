@@ -54,7 +54,7 @@ In addition to MATLAB software, the ‘map_gene2GlasserROIs.m’ and ‘run_PLS.
 
 # 2. Installation guide
 
-After installing the software dependencies listed above, the three custom functions in this package may be downloaded and run in MATLAB. Download time should be <1 minute on a normal computer. 
+After installing the software dependencies listed above, the three custom functions in this package may be downloaded and run in MATLAB. Download time should be <1 minute. 
 
 
 # 3. Demo
